@@ -1,2 +1,3 @@
-# smart-microservice-gl60
-A microservice architecture for modern development workflows
+# Smart Microservice Gl60
+
+A microservice architecture for modern development workflows.
